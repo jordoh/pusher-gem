@@ -103,5 +103,6 @@ module Pusher
   end
 end
 
+require 'pusher/core_extensions'
 require 'pusher/channel'
 require 'pusher/request'
